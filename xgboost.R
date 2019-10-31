@@ -1,4 +1,4 @@
-# XGBoost
+# XGBoost (final template)
 
 # Importing the dataset
 dataset = read.csv('Churn_Modelling.csv')
